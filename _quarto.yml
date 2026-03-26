@@ -1,21 +1,12 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "my-site"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Xiaoyu's FinTech Site"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
+    theme: cosmo
 
 

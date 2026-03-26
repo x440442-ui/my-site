@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Xiaoyu’s FinTech Site",
+    "section": "",
+    "text": "Hello! Welcome to my website.\nI am a Duke student interested in financial technology, data analysis, and algorithmic trading.\n\n\nThis site is created for FinTech 533 and will be used to present my course projects.\n\n\n\nMore updates coming soon."
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Xiaoyu’s FinTech Site",
+    "section": "",
+    "text": "This site is created for FinTech 533 and will be used to present my course projects."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Xiaoyu’s FinTech Site",
+    "section": "",
+    "text": "More updates coming soon."
+  }
+]
