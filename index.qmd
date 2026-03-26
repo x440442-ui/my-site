@@ -1,0 +1,17 @@
+---
+title: "Xiaoyu's FinTech Site"
+---
+
+# Welcome
+
+Hello! Welcome to my website.
+
+I am a Duke student interested in financial technology, data analysis, and algorithmic trading.
+
+## About This Site
+
+This site is created for FinTech 533 and will be used to present my course projects.
+
+## Projects
+
+More updates coming soon.
