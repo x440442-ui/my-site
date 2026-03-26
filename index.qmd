@@ -3,6 +3,7 @@ title: "Xiaoyu's FinTech Site"
 ---
 
 # Welcome
+![My Photo](images/me.jpg){width=300px}
 
 Hello! Welcome to my website.
 
